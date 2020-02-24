@@ -1,0 +1,2 @@
+# nuxttest
+nuxt test project
